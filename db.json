@@ -2,8 +2,14 @@
   "posts":
   [
     {
+       "id": 1,
        "name": "typicode",
        "country": "Poland"
+    },
+    {
+       "id": 2,
+       "name": "second",
+       "country": "Germany"
     }
   ]
 }
