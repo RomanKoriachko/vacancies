@@ -1,6 +1,9 @@
-[
-  {
-  "name": "typicode",
-  "country": "Poland"
-  }
-]
+{
+  "posts":
+  [
+    {
+       "name": "typicode",
+       "country": "Poland"
+    }
+  ]
+}
