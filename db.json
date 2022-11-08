@@ -1,15 +1,17 @@
-{
-  "posts":
-  [
-    {
-       "id": 1,
-       "name": "typicode",
-       "country": "Poland"
-    },
-    {
-       "id": 2,
-       "name": "second",
-       "country": "Germany"
-    }
-  ]
-}
+    [
+        {
+            country: "test1"
+            projectName: "test1"
+            salary: "test1"
+        },
+        {
+            country: "test2"
+            projectName: "test2"
+            salary: "test2"
+        },
+        {
+            country: "test3"
+            projectName: "test3"
+            salary: "test3"
+        },
+    ]
